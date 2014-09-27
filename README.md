@@ -18,3 +18,10 @@ This is saved in `longestflights.csv`.
 
 The `clean_data.py` script tidies up the data and writes it out to `data/processed/clean_data.py`.
 Should be nicer to work with.
+
+## Geocoding the data
+
+Done using the `geopy` library.
+This is done in the `geocoding.py` script.
+
+Outputs to `data/processed/geocoded.csv`
