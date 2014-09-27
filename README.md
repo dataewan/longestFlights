@@ -14,3 +14,7 @@ I've loaded the data into [my spreadsheet](https://docs.google.com/spreadsheets/
 
 This is saved in `longestflights.csv`.
 
+## Cleaning the data
+
+The `clean_data.py` script tidies up the data and writes it out to `data/processed/clean_data.py`.
+Should be nicer to work with.
