@@ -63,5 +63,18 @@ def decimal_hours(cell):
     return hour + (minute / 60)
 data.duration = data.duration.apply(decimal_hours)
 
+# there is some inconsistency in the data, jo'burg airport has a few different
+# names, so does dubai. remove these.
+def remove_inconsistency(cell):
+    if re.match("Dubai", cell):
+        return "Dubai"
+    if re.match("Johannesburg", cell):
+        return "Johannesburg"
+    else:
+        return cell
+
+data['from'] = data['from'].apply(remove_inconsistency)
+data['to'] = data['to'].apply(remove_inconsistency)
+
 # output to csv
 data.to_csv("data/processed/clean_data.csv", index = False)

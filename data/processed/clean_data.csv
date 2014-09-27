@@ -1,18 +1,18 @@
 ranking,from,to,airline,distance,duration,aircraftType
 1,Sydney,Dallas/Fort Worth,Qantas,13804,15.416666666666666,Boeing 747-400ER
-2,Johannesburg–O. R. Tambo,Atlanta,Delta Air Lines,13582,16.666666666666668,Boeing 777-200LR
+2,Johannesburg,Atlanta,Delta Air Lines,13582,16.666666666666668,Boeing 777-200LR
 3,Abu Dhabi,Los Angeles,Etihad,13502,16.416666666666668,Boeing 777-200LR
-4,Dubai-International,Los Angeles,Emirates,13420,16.583333333333332,Airbus A380-800
+4,Dubai,Los Angeles,Emirates,13420,16.583333333333332,Airbus A380-800
 5,Jeddah,Los Angeles,Saudia,13409,16.916666666666668,Boeing 777-300ER
 6,Dallas/Fort Worth,Brisbane,Qantas,13363,16.083333333333332,Boeing 747-400ER
-7,Dubai-International,Houston-Intercontinental,Emirates,13144,16.333333333333332,Boeing 777-300ER
+7,Dubai,Houston-Intercontinental,Emirates,13144,16.333333333333332,Boeing 777-300ER
 8,Dallas/Fort Worth,Hong Kong,American Airlines,13072,16.333333333333332,Boeing 777-300ER
-9,Dubai-International,San Francisco,Emirates,13041,15.833333333333334,Boeing 777-300ER
+9,Dubai,San Francisco,Emirates,13041,15.833333333333334,Boeing 777-300ER
 10,New York,Hong Kong,Cathay Pacific,12990,16.0,Boeing 777-300ER
 11,Newark,Hong Kong,United Airlines,12980,16.0,Boeing 777-200ER
 11,Newark,Hong Kong,Cathay Pacific,12980,15.833333333333334,Boeing 777-300ER
 13,Doha,Houston,Qatar Airways,12951,16.333333333333332,Boeing 777-200LR
-14,Dubai-International,Dallas/Fort Worth,Emirates,12940,16.333333333333332,Boeing 777-200LR
+14,Dubai,Dallas/Fort Worth,Emirates,12940,16.333333333333332,Boeing 777-200LR
 15,New York,Guangzhou,China Southern,12878,16.083333333333332,Boeing 777-300ER
 16,Johannesburg,New York,South African Airways,12825,16.083333333333332,Airbus A340-600
 17,Doha,Dallas/Fort Worth,Qatar Airways,12764,16.333333333333332,Boeing 777-200LR
@@ -27,5 +27,5 @@ ranking,from,to,airline,distance,duration,aircraftType
 25,Chicago-O'Hare,Hong Kong,Cathay Pacific,12542,15.416666666666666,Boeing 777-300ER
 27,Vancouver,Sydney,Air Canada,12484,15.666666666666666,Boeing 777-200LR
 28,Doha,Miami,Qatar Airways,12357,15.666666666666666,Boeing 777-200LR
-29,Dubai-International,Atlanta,Delta Air Lines,12230,15.75,Boeing 777-200LR
+29,Dubai,Atlanta,Delta Air Lines,12230,15.75,Boeing 777-200LR
 30,Dubai,São Paulo,Emirates,12217,14.916666666666666,Boeing 777-300ER
